@@ -1,0 +1,7 @@
+server:
+  origin: *
+
+db:
+  url: 'mongodb://localhost/nest-test-db'
+  type: 'mongodb'
+  synchronize: true
